@@ -1,4 +1,4 @@
 # PortfolioProjects
 My PortfolioProjects
 
-My repository of projects that will lead me to have the job of my dreams! :D
+My repository of projects that will help me get my dream job! :D
